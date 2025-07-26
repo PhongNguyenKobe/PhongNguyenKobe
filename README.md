@@ -14,7 +14,7 @@ Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfa
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=PhongNguyen1210&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=PhongNguyenKobe&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PhongNguyen1210&icon=0&color=0)](https://visitcount.itsvg.in)
