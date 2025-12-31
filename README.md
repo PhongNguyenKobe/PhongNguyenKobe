@@ -12,7 +12,9 @@ Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfa
 
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhongNguyenKobe&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhongNguyenKobe&theme=radical)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=PhongNguyenKobe&layout=compact&theme=radical)
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=PhongNguyenKobe&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
