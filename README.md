@@ -11,6 +11,8 @@ Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfa
 # 📊GitHub Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhongNguyenKobe&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhongNguyenKobe&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhongNguyenKobe&show_icons=true&theme=tokyonight)
 
 
 ## 🏆GitHub Trophies
