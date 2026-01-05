@@ -49,12 +49,12 @@ Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfa
 
 <a href="https://github.com/PhongNguyenKobe/e-commerce-ui">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyenKobe&repo=VN-Travel-PhongNguyen&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyenKobe&repo=e-commerce-ui&theme=dark" />
 </a>
 
 <a href="https://github.com/PhongNguyenKobe/PhongNguyenPuppyShop-MVC">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyenKobe&repo=pirate-animation&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyenKobe&repo=PhongNguyenPuppyShop-MVC&theme=merko" />
 </a>
 
 
