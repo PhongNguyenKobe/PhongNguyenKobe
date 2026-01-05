@@ -46,3 +46,18 @@ Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfa
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyenKobe&repo=Movie-Dashboard&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/PhongNguyenKobe/e-commerce-ui">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhongNguyenKobe&repo=e-commerce-ui&theme=radical" />
+</a>
+
+<a href="https://github.com/PhongNguyenKobe/PhongNguyenPuppyShop-MVC">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhongNguyenKobe&repo=PhongNguyenPuppyShop-MVC&theme=solarized-dark" />
+</a>
+
+<a href="https://github.com/PhongNguyenKobe/Movie-Dashboard">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhongNguyenKobe&repo=Movie-Dashboard&theme=cobalt" />
+</a>
